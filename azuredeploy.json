@@ -14,7 +14,7 @@
             "type": "Microsoft.ContainerInstance/containerGroups",
             "name": "[parameters('containerGroups_taganomaly_name')]",
             "apiVersion": "2018-04-01",
-            "location": "westeurope",
+            "location": "australiasoutheast",
             "scale": null,
             "properties": {
                 "containers": [
