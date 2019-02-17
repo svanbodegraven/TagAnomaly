@@ -27,10 +27,6 @@
                                 {
                                     "protocol": "TCP",
                                     "port": 3838
-                                },
-                                {
-                                    "protocol": "TCP",
-                                    "port": 80
                                 }
                             ],
                             "environmentVariables": [],
@@ -49,10 +45,6 @@
                         {
                             "protocol": "TCP",
                             "port": 3838
-                        },
-                        {
-                            "protocol": "TCP",
-                            "port": 80
                         }
                     ],
                     "type": "Public",
